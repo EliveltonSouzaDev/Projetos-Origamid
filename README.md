@@ -1,7 +1,7 @@
 # Projetos Origamid
- Projetos realizados durante os cursos da Origamid
+ ######Projetos realizados durante os cursos da Origamid
 
-Técnologias utilizadas
+###Técnologias utilizadas
 
 HTML
 CSS 
